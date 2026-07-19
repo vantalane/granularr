@@ -13,5 +13,7 @@ Granular can work alongside user-added songs in the playlist, only ever touching
 When its time to for a refresh, Granularr asks Lidarr for new songs to come in, old boring ones to be discarded. 
 Granular login is your Navidrome login, literally.
 
-All in your setup *arr keep doing what they do best. As simple as that.
+All *arr's in your setup keep doing what they do best.
 No extra downloaders, indexers, metadata editors or other bs
+
+ As simple as that.
